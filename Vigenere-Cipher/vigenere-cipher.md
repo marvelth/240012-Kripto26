@@ -29,7 +29,8 @@ Program menyediakan dua fitur utama:
 
 ## Screenshot Running Program
 
-**1. Screenshot Enkripsi & Dekripsi**
+**1. Screenshot Enkripsi**
+<img width="877" height="182" alt="vigenere cipher test 1" src="https://github.com/user-attachments/assets/3c04e498-a41e-42b3-8bbf-8e1d23ab6a47" />
 
-
-**2. Screenshot Pencarian Kunci**
+**2. Screenshot Dekripsi**
+<img width="502" height="135" alt="vigenere cipher test 2" src="https://github.com/user-attachments/assets/966773ba-2075-4347-a0d0-a7df9b7ee4e3" />
