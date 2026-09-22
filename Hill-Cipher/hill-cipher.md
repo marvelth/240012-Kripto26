@@ -42,8 +42,11 @@ Program menyediakan tiga fitur utama:
 
 ## Screenshot Running Program
 
-**1. Screenshot Enkripsi & Dekripsi**
-`![Screenshot Enkripsi](link-gambar-atau-path-gambar-disini)`
+**1. Enkripsi**
+<img width="357" height="147" alt="Hill Cipher test 1" src="https://github.com/user-attachments/assets/1d95a9b4-f6ad-41f2-9f6f-88785c86c826" />
 
-**2. Screenshot Pencarian Kunci**
-`![Screenshot Cari Kunci](link-gambar-atau-path-gambar-disini)`
+**2. Dekripsi**
+<img width="357" height="152" alt="Hill Cipher test 2" src="https://github.com/user-attachments/assets/99ccc077-1256-418f-ae1a-fb909a625977" />
+
+**3. Pencarian kunci**
+<img width="267" height="185" alt="Hill Cipher test 3" src="https://github.com/user-attachments/assets/24a68391-5056-4c50-8ff8-01aa7cdf9193" />
